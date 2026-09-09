@@ -396,14 +396,14 @@ RectTransform:
   m_GameObject: {fileID: 4330750584551781354}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -89}
-  m_LocalScale: {x: 1.1909775, y: 1.8230399, z: 1.8230399}
+  m_LocalScale: {x: 1.3752217, y: 2.1050642, z: 2.1050642}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 6219423278769795527}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -552, y: -1041}
+  m_AnchoredPosition: {x: -592, y: -1041}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7714360962412518788
@@ -434,7 +434,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'There wasn''t any good way to say it, but the man was most certainly, without any doubt, lost. He checked for signs on his left, he checked for signs on his right, he looked up and down and all around, but no matter what he did he was unable to ignore the inevitable facts laid out right in front of him: he was simply lost. And there was no doubt about it.'
+  m_text: 'The man headed deep within the massive vines of the forest, where only the mightiest of trees blocked his path.
+
+    "How daunting," the man exclaimed "how will I make it to Barnaby''s picnic now? And I really really really lost now?"'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 6190da2394d123f478209b446c906d21, type: 2}
   m_sharedMaterial: {fileID: 8555249785656010089, guid: 6190da2394d123f478209b446c906d21, type: 2}
@@ -1228,7 +1230,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &6792958628719589042
 RectTransform:
   m_ObjectHideFlags: 0

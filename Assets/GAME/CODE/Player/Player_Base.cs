@@ -29,7 +29,6 @@ public class Player_Base : MonoBehaviour
     [HideInInspector] public CrouchState crouchState;
     [HideInInspector] public FallState fallState;
     [HideInInspector] public PageState pageState;
-    [HideInInspector] public PauseState pauseState;
 
     void Awake()
     {
